@@ -1,0 +1,19 @@
+.menu{
+    background-color: #2FA6E9;
+}
+
+.qarea{
+    width: 1000px;
+    text-align: center;
+}
+.questionTitle{
+    margin: 20px auto 5px;
+    margin-left: 40px;
+    text-align: left;
+    font-weight: bold;
+}
+.aarea{
+    margin: 20px auto;    
+    margin-left: 60px;
+    text-align: left;
+}
